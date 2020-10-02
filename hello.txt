@@ -1,0 +1,10 @@
+第一节：
+讲环境变量设为C:\Program Files\Java\jdk1.8.0_65\bin
+和C:\Program Files\Java\jdk1.8.0_65\bin
+第二节：
+HelloJava.java
+public class HelloJava{
+	public static void main(String[] args){
+	System.out.println("Hello Java");
+	}
+}
